@@ -4,7 +4,7 @@ from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup, ContentTyp
 from aiogram.utils import executor
 from datetime import datetime
 
-TOKEN = "8168424922:AAEi0QOsZ4iX9K0e7JiU1PiRqlIZIaXb4sc"
+TOKEN = "8550071452:AAEk2YzQnJwIYsSSjXeMU3ljKbmNtNVWN8g"
 OWNER_ID = 8233512755
 
 bot = Bot(token=TOKEN)
